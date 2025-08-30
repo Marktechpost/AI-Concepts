@@ -8,7 +8,8 @@ Various AI Related Concepts Directory
 
 * [RAG Related](https://github.com/Marktechpost/AI-Concepts/blob/main/README.md#rag-related-concepts)
 * [Agentic AI Related](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#agentic-ai-related-concepts)
-* [MLOps/AIOps/Related](https://github.com/Marktechpost/AI-Concepts/tree/main?tab=readme-ov-file#mlopsaiopsrelaated)
+* [MLOps/AIOps Related](https://github.com/Marktechpost/AI-Concepts/tree/main?tab=readme-ov-file#mlopsaiopsrelaated)
+* [Database/Storage Related]([https://www.marktechpost.com/2025/08/24/what-is-a-database-modern-database-types-examples-and-applications-2025/](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#databasestorage))
 
 
 ---
