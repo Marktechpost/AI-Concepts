@@ -14,4 +14,4 @@ Various AI Related Concepts Directory
 
 ### RAG Related Concpets
 
-▶ Chunking vs. Tokenization: Key Differences in AI Text Processing [Detailed Article](https://www.marktechpost.com/2025/08/30/chunking-vs-tokenization-key-differences-in-ai-text-processing/)      [Infographics](https://www.marktechpost.com/2025/08/28/how-to-build-a-multi-round-deep-research-agent-with-gemini-duckduckgo-api-and-automated-reporting/](https://www.marktechpost.com/wp-content/uploads/2025/08/500x700-infographics-1.png)
+▶ Chunking vs. Tokenization: Key Differences in AI Text Processing [Detailed Article](https://www.marktechpost.com/2025/08/30/chunking-vs-tokenization-key-differences-in-ai-text-processing/) |   [Infographics](https://www.marktechpost.com/wp-content/uploads/2025/08/500x700-infographics-1.png)
