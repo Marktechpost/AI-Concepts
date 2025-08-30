@@ -6,7 +6,7 @@ Various AI Related Concepts Directory
 
 ### Index 
 
-* [RAG Related](https://www.marktechpost.com/wp-content/uploads/2025/08/500x700-infographics-1.png)
+* [RAG Related](https://github.com/Marktechpost/AI-Concepts/blob/main/README.md#rag-related-concepts)
 
 
 ---
