@@ -22,3 +22,10 @@ Various AI Related Concepts Directory
 ### Agentic AI Related Concepts
 
 ▶ What is Agentic RAG? Use Cases and Top Agentic RAG Tools [Detailed Article](https://www.marktechpost.com/2025/08/27/what-is-agentic-rag-use-cases-and-top-agentic-rag-tools-2025/) 
+
+----
+
+### MLOps/AIOps/Related
+
+▶ What is MLSecOps(Secure CI/CD for Machine Learning)?: Top MLSecOps Tools [Detailed Article](https://www.marktechpost.com/2025/08/26/what-is-mlsecopssecure-ci-cd-for-machine-learning-top-mlsecops-tools-2025/)
+
