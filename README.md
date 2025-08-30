@@ -30,3 +30,9 @@ Various AI Related Concepts Directory
 
 ▶ What is MLSecOps(Secure CI/CD for Machine Learning)?: Top MLSecOps Tools [Detailed Article](https://www.marktechpost.com/2025/08/26/what-is-mlsecopssecure-ci-cd-for-machine-learning-top-mlsecops-tools-2025/)
 
+----
+
+### Database/Storage
+
+▶ What is a Database? Modern Database Types, Examples, and Applications [Detailed Article](https://www.marktechpost.com/2025/08/24/what-is-a-database-modern-database-types-examples-and-applications-2025/)
+
