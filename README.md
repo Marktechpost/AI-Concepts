@@ -16,6 +16,16 @@ Various AI Related Concepts Directory
 ---
   
 
+### Voice AI Related Concepts
+
+▶ What is a Voice Agent in AI? Top 9 Voice Agent Platforms to Know (2025) [Detailed Article](https://www.marktechpost.com/2025/08/23/what-is-a-voice-agent-in-ai-top-9-voice-agent-platforms-to-know-2025/) 
+
+▶ What Is Speaker Diarization? A 2025 Technical Guide: Top 9 Speaker Diarization Libraries and APIs in 2025 [Detailed Article](https://www.marktechpost.com/2025/08/21/what-is-speaker-diarization-a-2025-technical-guide-top-9-speaker-diarization-libraries-and-apis-in-2025/) 
+
+▶ What Is Speaker Diarization? A 2025 Technical Guide: Top 9 Speaker Diarization Libraries and APIs in 2025 [Detailed Article](https://www.marktechpost.com/2025/08/21/what-is-speaker-diarization-a-2025-technical-guide-top-9-speaker-diarization-libraries-and-apis-in-2025/) 
+
+----
+
 ### RAG Related Concepts
 
 ▶ Chunking vs. Tokenization: Key Differences in AI Text Processing [Detailed Article](https://www.marktechpost.com/2025/08/30/chunking-vs-tokenization-key-differences-in-ai-text-processing/) |   [Infographics](https://www.marktechpost.com/wp-content/uploads/2025/08/500x700-infographics-1.png)
