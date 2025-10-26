@@ -11,7 +11,7 @@ Various AI Related Concepts Directory
 * [Agentic AI Related](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#agentic-ai-related-concepts)
 * [MLOps/AIOps Related](https://github.com/Marktechpost/AI-Concepts/tree/main?tab=readme-ov-file#mlopsaiopsrelaated)
 * [Database/Storage Related](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#databasestorage)
-* [LLMs](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#databasestorage)
+* [LLMs](https://github.com/Marktechpost/AI-Concepts/blob/main/README.md#llms)
 
 
 ---
