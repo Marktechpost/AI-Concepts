@@ -11,6 +11,7 @@ Various AI Related Concepts Directory
 * [Agentic AI Related](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#agentic-ai-related-concepts)
 * [MLOps/AIOps Related](https://github.com/Marktechpost/AI-Concepts/tree/main?tab=readme-ov-file#mlopsaiopsrelaated)
 * [Database/Storage Related](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#databasestorage)
+* [LLMs](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#databasestorage)
 
 
 ---
@@ -49,4 +50,10 @@ Various AI Related Concepts Directory
 ### Database/Storage
 
 ▶ What is a Database? Modern Database Types, Examples, and Applications [Detailed Article](https://www.marktechpost.com/2025/08/24/what-is-a-database-modern-database-types-examples-and-applications-2025/)
+
+----
+
+### LLMs
+
+▶ 5 Common LLM Parameters Explained with Examples [Detailed Article](https://www.marktechpost.com/2025/10/26/5-common-llm-parameters-explained-with-examples/)
 
