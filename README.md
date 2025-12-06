@@ -12,6 +12,7 @@ Various AI Related Concepts Directory
 * [MLOps/AIOps Related](https://github.com/Marktechpost/AI-Concepts/tree/main?tab=readme-ov-file#mlopsaiopsrelaated)
 * [Database/Storage Related](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#databasestorage)
 * [LLMs](https://github.com/Marktechpost/AI-Concepts/blob/main/README.md#llms)
+* [ML/Data Science](https://github.com/Marktechpost/AI-Concepts/blob/main/README.md#llms)
 
 
 ---
@@ -56,4 +57,10 @@ Various AI Related Concepts Directory
 ### LLMs
 
 ▶ 5 Common LLM Parameters Explained with Examples [Detailed Article](https://www.marktechpost.com/2025/10/26/5-common-llm-parameters-explained-with-examples/)
+
+----
+
+### ML/Data Science
+
+▶ Kernel Principal Component Analysis (PCA): Explained with an Example [Detailed Article](https://www.marktechpost.com/2025/12/05/kernel-principal-component-analysis-pca-explained-with-an-example/)
 
