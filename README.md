@@ -58,6 +58,8 @@ Various AI Related Concepts Directory
 
 ▶ 5 Common LLM Parameters Explained with Examples [Detailed Article](https://www.marktechpost.com/2025/10/26/5-common-llm-parameters-explained-with-examples/)
 
+▶ Understanding the Layers of AI Observability in the Age of LLMs [Detailed Article](https://www.marktechpost.com/2026/01/13/understanding-the-layers-of-ai-observability-in-the-age-of-llms/)
+
 ----
 
 ### ML/Data Science
