@@ -64,6 +64,8 @@ Various AI Related Concepts Directory
 
 ### ML/Data Science
 
+▶ Four Ways to Deploy a New ML Model Safely [Detailed Article](https://www.marktechpost.com/2026/03/21/safely-deploying-ml-models-to-production-four-controlled-strategies-a-b-canary-interleaved-shadow-testing/) |  [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/ML_Deployment_Methods.ipynb)
+
 ▶ What are Context Graphs? [Detailed Article](https://www.marktechpost.com/2026/01/20/what-are-context-graphs/)
 
 ▶ Kernel Principal Component Analysis (PCA): Explained with an Example [Detailed Article](https://www.marktechpost.com/2025/12/05/kernel-principal-component-analysis-pca-explained-with-an-example/)
