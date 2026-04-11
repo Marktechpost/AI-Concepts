@@ -64,6 +64,8 @@ Various AI Related Concepts Directory
 
 ### ML/Data Science
 
+▶ How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model [Detailed Article](https://www.marktechpost.com/2026/04/11/how-knowledge-distillation-compresses-ensemble-intelligence-into-a-single-deployable-ai-model/) |  [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/Knowledge_Distillation.ipynb)
+
 ▶ Sigmoid vs ReLU Activation Functions: The Inference Cost of Losing Geometric Context [Detailed Article](https://www.marktechpost.com/2026/04/09/sigmoid-vs-relu-activation-functions-the-inference-cost-of-losing-geometric-context/) |  [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Deep%20Learning/Sigmoid_Relu.ipynb)
 
 ▶ Four Ways to Deploy a New ML Model Safely [Detailed Article](https://www.marktechpost.com/2026/03/21/safely-deploying-ml-models-to-production-four-controlled-strategies-a-b-canary-interleaved-shadow-testing/) |  [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/ML_Deployment_Methods.ipynb)
