@@ -64,6 +64,8 @@ Various AI Related Concepts Directory
 
 ### ML/Data Science
 
+▶ TabPFN: A Foundation Model for Tabular Learning [Detailed Article](https://www.marktechpost.com/2026/04/19/how-tabpfn-leverages-in-context-learning-to-achieve-superior-accuracy-on-tabular-datasets-compared-to-random-forest-and-catboost/) |  [Notebook](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/TabPFN.ipynb)
+
 ▶ How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model [Detailed Article](https://www.marktechpost.com/2026/04/11/how-knowledge-distillation-compresses-ensemble-intelligence-into-a-single-deployable-ai-model/) |  [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/Knowledge_Distillation.ipynb)
 
 ▶ Sigmoid vs ReLU Activation Functions: The Inference Cost of Losing Geometric Context [Detailed Article](https://www.marktechpost.com/2026/04/09/sigmoid-vs-relu-activation-functions-the-inference-cost-of-losing-geometric-context/) |  [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Deep%20Learning/Sigmoid_Relu.ipynb)
