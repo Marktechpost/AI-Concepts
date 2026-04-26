@@ -30,6 +30,8 @@ Various AI Related Concepts Directory
 
 ### RAG Related Concepts
 
+▶ RAG Without Vectors: How PageIndex Retrieves by Reasoning [Detailed Article](https://www.marktechpost.com/2026/04/25/rag-without-vectors-how-pageindex-retrieves-by-reasoning/) |   [Codes/Notebook](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/RAG/PageIndex.ipynb)
+
 ▶ Chunking vs. Tokenization: Key Differences in AI Text Processing [Detailed Article](https://www.marktechpost.com/2025/08/30/chunking-vs-tokenization-key-differences-in-ai-text-processing/) |   [Infographics](https://www.marktechpost.com/wp-content/uploads/2025/08/500x700-infographics-1.png)
 
 ----
