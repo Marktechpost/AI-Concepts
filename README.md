@@ -59,6 +59,8 @@ Various AI Related Concepts Directory
 
 ### LLMs
 
+▶ A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JSON Outputs, and Multi-Hypothesis Verbalized Samplings [Detailed Article](https://www.marktechpost.com/2026/05/03/a-developers-guide-to-systematic-prompting-mastering-negative-constraints-structured-json-outputs-and-multi-hypothesis-verbalized-sampling/) |  [Notebook](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/Prompt_Techniques.ipynb)
+
 ▶ 5 Common LLM Parameters Explained with Examples [Detailed Article](https://www.marktechpost.com/2025/10/26/5-common-llm-parameters-explained-with-examples/)
 
 ▶ Understanding the Layers of AI Observability in the Age of LLMs [Detailed Article](https://www.marktechpost.com/2026/01/13/understanding-the-layers-of-ai-observability-in-the-age-of-llms/)
