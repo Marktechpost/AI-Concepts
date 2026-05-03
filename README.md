@@ -13,6 +13,7 @@ Various AI Related Concepts Directory
 * [Database/Storage Related](https://github.com/Marktechpost/AI-Concepts?tab=readme-ov-file#databasestorage)
 * [LLMs](https://github.com/Marktechpost/AI-Concepts/blob/main/README.md#llms)
 * [ML/Data Science](https://github.com/Marktechpost/AI-Concepts/blob/main/README.md#llms)
+* [NLP](https://github.com/Marktechpost/AI-Concepts/blob/main/README.md#llms)
 
 
 ---
