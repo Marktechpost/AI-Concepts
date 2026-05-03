@@ -79,5 +79,9 @@ Various AI Related Concepts Directory
 
 ▶ Kernel Principal Component Analysis (PCA): Explained with an Example [Detailed Article](https://www.marktechpost.com/2025/12/05/kernel-principal-component-analysis-pca-explained-with-an-example/)
 
+----
 
+### NLP
+
+▶ What is Tokenization Drift and How to Fix It? [Detailed Article](https://www.marktechpost.com/2026/05/03/what-is-tokenization-drift-and-how-to-fix-it/) |  [Notebook](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/NLP/Tokenization_Drift.ipynb)
 
